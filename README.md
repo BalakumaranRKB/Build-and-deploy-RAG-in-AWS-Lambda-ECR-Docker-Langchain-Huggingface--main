@@ -1,0 +1,1 @@
+# depolying a RAG application using AWS, langchain, ECR

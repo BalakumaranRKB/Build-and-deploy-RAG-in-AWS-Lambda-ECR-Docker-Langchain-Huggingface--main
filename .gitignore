@@ -1,0 +1,5 @@
+env/
+E2E_env/
+*.pyc
+__pycache__/
+.env
