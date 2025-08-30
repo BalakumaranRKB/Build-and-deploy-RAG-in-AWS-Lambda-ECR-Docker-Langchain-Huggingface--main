@@ -1,0 +1,8 @@
+env
+build
+data
+dist
+output
+qasystem.egg-info
+output
+testing_bedrock
