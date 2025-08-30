@@ -61,3 +61,5 @@ if __name__=='__main__':
     llm=get_llama2_llm()
     print(get_response_llm(llm,faiss_index,query))
     
+#python -m QASystem.retrievalandgeneration
+    
