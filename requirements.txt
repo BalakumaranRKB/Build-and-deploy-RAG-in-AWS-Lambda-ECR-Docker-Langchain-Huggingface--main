@@ -11,5 +11,3 @@ langchain
 streamlit
 pypdf
 faiss-cpu
-
--e .
